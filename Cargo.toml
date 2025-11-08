@@ -20,6 +20,10 @@ path = "rust-src/bin/ch01.rs"
 name = "ch02"
 path = "rust-src/bin/ch02.rs"
 
+[[bin]]
+name = "ch03"
+path = "rust-src/bin/ch03.rs"
+
 [dependencies]
 
 [dev-dependencies]
