@@ -13,6 +13,10 @@ path = "rust-src/lib.rs"
 
 # Binary targets in rust-src/bin/
 [[bin]]
+name = "ch01"
+path = "rust-src/bin/ch01.rs"
+
+[[bin]]
 name = "ch02"
 path = "rust-src/bin/ch02.rs"
 

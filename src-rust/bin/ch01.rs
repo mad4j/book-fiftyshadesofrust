@@ -3,8 +3,7 @@ fn is_pangram(s: &str) -> bool {
         .filter(|c| c.is_ascii_alphabetic())
         .map(|c| c.to_ascii_lowercase())
         .collect::<std::collections::HashSet<_>>()
-        .len()
-        == 26
+        .len() == 26
 }
 
 fn main() {
