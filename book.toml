@@ -1,0 +1,5 @@
+[book]
+authors = ["copilot-swe-agent[bot]"]
+language = "en"
+src = "src"
+title = "Fifty Shades of Rust"
