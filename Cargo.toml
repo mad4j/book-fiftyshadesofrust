@@ -1,0 +1,21 @@
+[package]
+name = "fifty-shades-of-rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["GitHub Copilot"]
+description = "Rust examples for the Fifty Shades of Rust book"
+license = "MIT"
+
+# Library configuration
+[lib]
+name = "fifty_shades_of_rust"
+path = "rust-src/lib.rs"
+
+# Binary targets in rust-src/bin/
+[[bin]]
+name = "ch02"
+path = "rust-src/bin/ch02.rs"
+
+[dependencies]
+
+[dev-dependencies]

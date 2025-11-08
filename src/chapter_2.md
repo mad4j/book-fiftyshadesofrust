@@ -1,4 +1,4 @@
-# Pangrams
+# Moving Average Algorithm
 
 ## Introduction
 
@@ -7,5 +7,5 @@ A moving average is a statistical calculation used to analyze data points by cre
 ## Implementation
 
 ```rust
-{{#include ../rust-src/bin/ch01.rs}}
+{{#include ../rust-src/bin/ch02.rs}}
 ```

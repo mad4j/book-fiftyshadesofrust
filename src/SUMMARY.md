@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Pangrams](./chapter_1.md)
+- [Moving Average](./chapter_2.md)
